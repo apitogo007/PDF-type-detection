@@ -1,1 +1,1 @@
-# PDF-type-detection
+# PDF-utility
